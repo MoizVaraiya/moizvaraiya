@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/moiz-varaiya-499507120/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19697199/moiz-varaiya)
+[![Linkedin Badge](https://img.shields.io/badge/-Moiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Moiz--01629954/)](https://www.linkedin.com/in/moiz-varaiya-499507120/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Moiz-yellow)](https://stackoverflow.com/users/19697199/moiz-varaiya)
 
 I'm
 Full Stack Solution Architect
